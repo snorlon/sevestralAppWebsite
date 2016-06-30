@@ -1,0 +1,34 @@
+Name:	Gustlin
+Strength:	2.0f	+	0.5f
+Toughness:	2.0f	+	1.0f
+Agility:	4.0f	+	1.0f
+Dexterity:	10.0f	+	2.0f
+Intelligence:	2.0f	+	1.0f
+Willpower:	4.0f	+	1.5f
+Charisma:	4.0f	+	1.0f
+Luck:	12.0f	+	2.5f
+
+Neutral Multiplier:	1.2f
+Fire Multiplier:	1.75f
+Water Multiplier:	1.0f
+Earth Multiplier:	1.0f
+Wind Multiplier:	0.25f
+Life Multiplier:	1.0f
+Time Multiplier:	1.0f
+Space Multiplier:	1.0f
+Void Multiplier:	1.0f
+
+Faction:	Wild
+Morale:	50
+Loyalty:	50
+Unique:	False
+Boss:	False
+
+Filename:	gustlin.png
+Animation Rate:	7.0f
+
+Ability:	Bite
+Ability:	Breeze
+Ability:	Cold Cloud
+
+Drops:

@@ -1,0 +1,33 @@
+Name:	Pyrwolf
+Strength:	10.0f	+	2.5f
+Toughness:	4.0f	+	0.7f
+Agility:	6.0f	+	1.2f
+Dexterity:	2.0f	+	1.1f
+Intelligence:	1.0f	+	1.0f
+Willpower:	5.0f	+	1.5f
+Charisma:	1.0f	+	1.0f
+Luck:	1.0f	+	1.0f
+
+Neutral Multiplier:	1.1f
+Fire Multiplier:	0.5f
+Water Multiplier:	1.6f
+Earth Multiplier:	1.0f
+Wind Multiplier:	1.0f
+Life Multiplier:	1.0f
+Time Multiplier:	1.0f
+Space Multiplier:	1.0f
+Void Multiplier:	1.0f
+
+Faction:	Wild
+Morale:	50
+Loyalty:	50
+Unique:	False
+Boss:	False
+
+Filename:	pyrwolf.png
+Animation Rate:	6.0f
+
+Ability:	Bite
+Ability:	Regenerate
+
+Drops:

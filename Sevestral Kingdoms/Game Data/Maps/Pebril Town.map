@@ -1,0 +1,9 @@
+Name: Pebril Town
+Planet:	Wind
+Danger:	0
+Layout:	layout1
+
+Building:	Inn
+Building:	Guard Tower
+Building:	General Store
+Building:	Hospital

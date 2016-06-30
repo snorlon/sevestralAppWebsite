@@ -1,0 +1,39 @@
+Name	imagepath	damage	staminaCost	attackType	buffCount	type1	type2
+bufftype	level
+
+Cleansing Water	drip.png	0.0f	50	Magic	1	Water	None
+Cleanse	1
+
+Peck	misc.png	0.75f	5	Physical	0	None	None
+
+Bite	misc.png	0.75f	5	Physical	1	None	None
+Bleed	1
+
+Tremble	quake.png	0.75f	10	Magical	0	Earth	None
+
+Squirt	drip.png	0.75f	10	Magical	0	Water	None
+
+Scorch	fireball.png	0.75f	10	Magical	0	Fire	None
+
+Firebreath	fireball.png	0.75f	10	Magical	0	Fire	None
+
+Breeze	gale.png	0.75f	10	Magical	0	Wind	None
+
+Dust Cloud	dust.png	0.1f	10	Magical	1	Earth	None
+Dazed	1
+
+Steam Cloud	steam.png	0.1f	10	Magical	1	Fire	Water
+Burn	1
+
+Cold Cloud	steam.png	0.1f	10	Magical	1	Water	Wind
+Frostbite	1
+
+Regenerate	drip.png	0.0f	10	Magical	1	None	None
+Heal	1
+
+Lava Spit	magma.png	0.8f	10	Magical	0	Fire	Water
+
+Burrow	quake.png	0.25f	3	Physical	0	Earth	None
+
+Sonar Scream	sound.png	1.0f	20	Magical	1	Void	None
+Dazed	1

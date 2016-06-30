@@ -1,0 +1,33 @@
+Name:	Trematay
+Strength:	8.0f	+	1.5f
+Toughness:	11.0f	+	2.0f
+Agility:	10.0f	+	4.0f
+Dexterity:	2.0f	+	0.5f
+Intelligence:	2.0f	+	0.5f
+Willpower:	3.0f	+	1.0f
+Charisma:	2.0f	+	0.5f
+Luck:	2.0f	+	0.5f
+
+Neutral Multiplier:	0.5f
+Fire Multiplier:	1.0f
+Water Multiplier:	2.0f
+Earth Multiplier:	0.5f
+Wind Multiplier:	0.25f
+Life Multiplier:	1.0f
+Time Multiplier:	1.25f
+Space Multiplier:	1.5f
+Void Multiplier:	1.0f
+
+Faction:	Wild
+Morale:	80
+Loyalty:	10
+Unique:	False
+Boss:	False
+
+Filename:	trematay.png
+Animation Rate:	5.0f
+
+Ability:	Bite
+Ability:	Tremble
+Ability:	Burrow
+Ability:	Dust Cloud

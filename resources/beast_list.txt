@@ -1,0 +1,9 @@
+Blazlin	blazlin	Fire
+Clesh	clesh	Fire
+Pyrwolf	pyrwolf	Fire
+Wlen	wlen	Fire
+Wattlin	wattlin	Water
+Crustlin	crustlin	Earth
+Gustlin	gustlin	Wind
+Breplex	breplex	Wind
+Trematay	trematay	Wind

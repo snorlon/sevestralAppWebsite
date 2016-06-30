@@ -1,0 +1,35 @@
+Name:	Wattlin
+Strength:	2.0f	+	0.5f
+Toughness:	4.0f	+	1.0f
+Agility:	2.0f	+	1.0f
+Dexterity:	2.0f	+	1.0f
+Intelligence:	10.0f	+	2.0f
+Willpower:	4.0f	+	1.5f
+Charisma:	4.0f	+	1.0f
+Luck:	12.0f	+	2.5f
+
+Neutral Multiplier:	1.2f
+Fire Multiplier:	1.0f
+Water Multiplier:	0.25f
+Earth Multiplier:	1.75f
+Wind Multiplier:	1.0f
+Life Multiplier:	1.0f
+Time Multiplier:	1.0f
+Space Multiplier:	1.0f
+Void Multiplier:	1.0f
+
+Faction:	Wild
+Morale:	50
+Loyalty:	50
+Unique:	False
+Boss:	False
+
+Filename:	wattlin.png
+Animation Rate:	6.0f
+
+Ability:	Bite
+Ability:	Squirt
+Ability:	Steam Cloud
+Ability:	Cold Cloud
+
+Drops:

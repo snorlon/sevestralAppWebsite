@@ -1,0 +1,33 @@
+Name:	Breplex
+Strength:	1.0f	+	0.5f
+Toughness:	2.0f	+	1.0f
+Agility:	10.0f	+	3.0f
+Dexterity:	16.0f	+	2.5f
+Intelligence:	2.0f	+	0.5f
+Willpower:	3.0f	+	1.0f
+Charisma:	4.0f	+	1.0f
+Luck:	2.0f	+	1.0f
+
+Neutral Multiplier:	2.0f
+Fire Multiplier:	3.0f
+Water Multiplier:	1.00f
+Earth Multiplier:	1.0f
+Wind Multiplier:	0.25f
+Life Multiplier:	1.0f
+Time Multiplier:	1.0f
+Space Multiplier:	1.0f
+Void Multiplier:	0.25f
+
+Faction:	Wild
+Morale:	30
+Loyalty:	30
+Unique:	False
+Boss:	False
+
+Filename:	breplex.png
+Animation Rate:	15.0f
+
+Ability:	Bite
+Ability:	Sonar Scream
+Ability:	Burrow
+Ability:	Dust Cloud

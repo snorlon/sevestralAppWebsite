@@ -1,0 +1,30 @@
+Name	Description	itemType	imagepath	effectID	baseValue	Rarity	(Rank) (numBuffs) (Type 1)	(Attack Type)	(Type 2)	(Attack File)	(Damage Mult)	(Stamina Cost)
+Buff Type	Buff Level
+
+Apple	A delicious red apple.	Food	apple.png	None	20	0
+Strong Potion	Boosts the Strength stat. Drink up!	Potion	potion_red.png	Strength	500	2
+Tough Potion	Boosts the Toughness stat. Drink up!	Potion	potion_yellow.png	Toughness	500	1
+Smart Potion	Boosts the Intelligence stat. Drink up!	Potion	potion_blue_dark.png	Intelligence	500	2
+Willful Potion	Boosts the Willpower stat. Drink up!	Potion	potion_blue_light.png	Willpower	500	2
+Fast Potion	Boosts the Agility stat. Drink up!	Potion	potion_green_dark.png	Agility	500	2
+Dexterous Potion	Boosts the Dexterity stat. Drink up!	Potion	potion_green_light.png	Dexterity	500	2
+Charisma Potion	Boosts the Charisma stat. Drink up!	Potion	potion_orange.png	Charisma	500	3
+Luck Potion	Boosts the Luck stat. Drink up!	Potion	potion_pink.png	Luck	500	3
+Shitty Helmet	Wow, this helmet REALLY sucks!	Helmet	helmet_basic.png	None	25	1	1
+Shitty Armor	Wow, this chestpiece REALLY sucks!	Chestpiece	chestpiece_basic.png	None	50	1	1
+Shitty Grieves	Wow, these grieves REALLY suck!	Leggings	leggings_basic.png	None	35	1	1
+
+Blastfire	A large, powerful burn.	Spell	spell_red.png	None	1000	1	1	1	Fire	Magical	Wind	error.png	1.2	10
+Burn	3
+
+Damnation	Wicked flames erupt.	Spell	spell_violet.png	None	1500	3	3	1	Fire	Magical	Void	error.png	1.5	20
+Poison	1
+
+
+Fake Sword	A simple, but shoddy, sword.	Sword	sword_basic.png	None	50	2	1	1	None
+Bleed	2
+
+Fake Pentagram	A simple, but shoddy, pentagram.	Pentagram	spell_purple.png	None	50	3	1
+Standard Helmet	Usable, I guess.	Helmet	helmet_basic.png	None	200	2	2
+Chair	A simple wooden chair.	Furniture	furniture_chair.png	None	100	3
+All Stat Potion	Boosts all stats. Drink up!	Potion	potion_black.png	All Stats	3000	4
